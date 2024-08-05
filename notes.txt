@@ -1,0 +1,22 @@
+Project: api for repair shop
+
+Requirements:
+Allow employees to update orders/jobs with device details, customer details, and job status
+Allow customers to view the job and its status
+
+class customer
+    Attributes:
+    First Name
+    Last Name
+    Current Balance
+
+class job
+    Attributes:
+        Customer
+        Device Type
+        Device Brand
+        Device Serial Number
+        Device Model Number
+        Service
+        Status
+        
